@@ -1,0 +1,4 @@
+/iac/*.tfvars
+/iac/*.hcl
+/iac/.terraform/
+/src/node_modules/
